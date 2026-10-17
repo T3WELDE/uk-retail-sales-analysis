@@ -1,0 +1,601 @@
+Date,Region,Category,Product,Salesperson,Units_Sold,Unit_Price,Revenue
+2025-05-08,Bristol,Grocery,Olive Oil,J. Adeyemi,9,70.86,637.74
+2025-05-31,Bristol,Grocery,Tea Box,L. Chen,18,46.16,830.88
+2025-05-02,Manchester,Electronics,Phone Case,M. Osei,22,58.79,1293.38
+2025-01-11,Birmingham,Clothing,Cap,L. Chen,18,45.23,814.14
+2025-05-25,Leeds,Clothing,Jacket,J. Adeyemi,1,13.37,13.37
+2025-05-06,London,Grocery,Snack Bar,L. Chen,11,32.28,355.08
+2025-03-02,Bristol,Clothing,T-Shirt,R. Patel,9,9.44,84.96
+2025-03-31,London,Grocery,Coffee Beans,L. Chen,17,36.78,625.26
+2025-06-12,Manchester,Grocery,Snack Bar,S. Okafor,4,12.77,51.08
+2025-02-23,Manchester,Clothing,T-Shirt,R. Patel,8,19.76,158.08
+2025-04-11,Birmingham,Clothing,Jacket,S. Okafor,8,11.34,90.72
+2025-05-21,London,Clothing,Socks Pack,R. Patel,14,71.78,1004.92
+2025-05-09,London,Electronics,Headphones,R. Patel,23,33.3,765.9
+2025-01-31,Bristol,Electronics,Phone Case,M. Osei,14,61.22,857.08
+2025-02-20,Leeds,Electronics,Smart Watch,R. Patel,21,17.65,370.65
+2025-06-05,Leeds,Electronics,Bluetooth Speaker,S. Okafor,13,17.22,223.86
+2025-01-21,London,Electronics,Charger Cable,L. Chen,13,51.97,675.61
+2025-04-20,Manchester,Grocery,Snack Bar,S. Okafor,10,33.7,337.0
+2025-02-24,Manchester,Grocery,Olive Oil,T. Whitfield,15,78.09,1171.35
+2025-03-04,Leeds,Grocery,Olive Oil,J. Adeyemi,13,78.98,1026.74
+2025-01-23,Leeds,Electronics,Charger Cable,M. Osei,20,9.67,193.4
+2025-02-14,London,Grocery,Pasta Pack,M. Osei,24,51.75,1242.0
+2025-05-04,Leeds,Home,Photo Frame,M. Osei,5,37.59,187.95
+2025-01-14,Birmingham,Home,Kettle,A. Nkemelu,21,8.41,176.61
+2025-06-08,Manchester,Grocery,Pasta Pack,L. Chen,10,78.1,781.0
+2025-05-14,Birmingham,Grocery,Pasta Pack,L. Chen,24,55.35,1328.4
+2025-03-05,Birmingham,Electronics,Charger Cable,S. Okafor,12,78.28,939.36
+2025-03-24,Birmingham,Grocery,Olive Oil,T. Whitfield,3,20.96,62.88
+2025-03-04,Birmingham,Grocery,Pasta Pack,M. Osei,16,10.17,162.72
+2025-01-18,Bristol,Electronics,Bluetooth Speaker,L. Chen,4,85.03,340.12
+2025-06-05,Leeds,Electronics,Charger Cable,S. Okafor,23,25.18,579.14
+2025-03-04,Bristol,Home,Photo Frame,R. Patel,18,32.33,581.94
+2025-06-17,Leeds,Clothing,Socks Pack,L. Chen,13,37.99,493.87
+2025-06-23,Bristol,Home,Cushion,J. Adeyemi,16,13.88,222.08
+2025-05-20,Leeds,Home,Desk Lamp,T. Whitfield,2,49.53,99.06
+2025-02-01,Leeds,Electronics,Bluetooth Speaker,T. Whitfield,21,55.75,1170.75
+2025-06-17,Bristol,Home,Photo Frame,L. Chen,8,40.16,321.28
+2025-01-26,London,Grocery,Snack Bar,A. Nkemelu,4,26.13,104.52
+2025-04-07,London,Clothing,Cap,A. Nkemelu,12,54.06,648.72
+2025-01-22,Manchester,Electronics,Smart Watch,A. Nkemelu,14,56.53,791.42
+2025-05-14,Leeds,Electronics,Charger Cable,R. Patel,5,53.15,265.75
+2025-05-06,Bristol,Grocery,Tea Box,A. Nkemelu,16,54.87,877.92
+2025-04-20,Birmingham,Home,Toaster,S. Okafor,21,12.15,255.15
+2025-01-20,London,Electronics,Charger Cable,R. Patel,21,24.66,517.86
+2025-04-21,Birmingham,Clothing,T-Shirt,Unknown,8,86.75,694.0
+2025-03-05,Manchester,Electronics,Phone Case,J. Adeyemi,19,52.07,989.33
+2025-06-04,Manchester,Electronics,Bluetooth Speaker,A. Nkemelu,21,46.99,986.79
+2025-04-12,Leeds,Grocery,Snack Bar,J. Adeyemi,21,51.24,1076.04
+2025-05-22,Bristol,Clothing,Jacket,A. Nkemelu,18,16.02,288.36
+2025-05-21,Birmingham,Clothing,Jacket,S. Okafor,10,26.36,263.6
+2025-03-18,Birmingham,Electronics,Smart Watch,M. Osei,24,82.47,1979.28
+2025-06-27,Bristol,Grocery,Snack Bar,J. Adeyemi,3,63.17,189.51
+2025-02-18,Bristol,Grocery,Tea Box,L. Chen,6,28.67,172.02
+2025-04-20,Bristol,Grocery,Snack Bar,R. Patel,5,48.3,241.5
+2025-03-21,Manchester,Home,Cushion,A. Nkemelu,16,21.31,340.96
+2025-06-24,London,Home,Desk Lamp,T. Whitfield,8,18.88,151.04
+2025-03-05,Manchester,Electronics,Headphones,S. Okafor,13,78.44,1019.72
+2025-05-10,Manchester,Grocery,Coffee Beans,M. Osei,19,10.28,195.32
+2025-06-17,Birmingham,Clothing,T-Shirt,A. Nkemelu,12,42.13,505.56
+2025-05-28,Birmingham,Home,Desk Lamp,L. Chen,20,59.3,1186.0
+2025-03-05,London,Electronics,Phone Case,R. Patel,13,65.48,851.24
+2025-03-16,Bristol,Clothing,Cap,R. Patel,15,36.29,544.35
+2025-05-31,Manchester,Electronics,Headphones,T. Whitfield,21,9.99,209.79
+2025-06-24,Manchester,Grocery,Coffee Beans,M. Osei,15,73.73,1105.95
+2025-03-15,Manchester,Clothing,Hoodie,T. Whitfield,7,57.77,404.39
+2025-03-24,Manchester,Clothing,Hoodie,T. Whitfield,17,23.78,404.26
+2025-01-13,Birmingham,Grocery,Olive Oil,A. Nkemelu,21,62.15,1305.15
+2025-01-24,Bristol,Clothing,Jacket,J. Adeyemi,10,40.16,401.6
+2025-06-03,Bristol,Home,Kettle,S. Okafor,25,72.14,1803.5
+2025-06-26,London,Grocery,Snack Bar,T. Whitfield,25,54.16,1354.0
+2025-04-18,Bristol,Electronics,Headphones,L. Chen,15,71.12,1066.8
+2025-06-11,Manchester,Clothing,T-Shirt,J. Adeyemi,15,28.24,423.6
+2025-05-15,Manchester,Electronics,Charger Cable,A. Nkemelu,23,35.51,816.73
+2025-03-01,Leeds,Electronics,Headphones,J. Adeyemi,7,45.52,318.64
+2025-01-23,Birmingham,Grocery,Tea Box,J. Adeyemi,1,22.58,22.58
+2025-02-13,Manchester,Clothing,Socks Pack,S. Okafor,16,17.39,278.24
+2025-03-09,Bristol,Home,Desk Lamp,J. Adeyemi,21,30.36,637.56
+2025-03-28,Manchester,Clothing,Hoodie,J. Adeyemi,17,58.81,999.77
+2025-01-17,Leeds,Electronics,Phone Case,R. Patel,2,72.23,144.46
+2025-04-15,Birmingham,Grocery,Pasta Pack,J. Adeyemi,7,75.79,530.53
+2025-02-12,Bristol,Electronics,Bluetooth Speaker,S. Okafor,4,54.18,216.72
+2025-06-14,Manchester,Home,Toaster,T. Whitfield,20,66.24,1324.8
+2025-04-03,Bristol,Grocery,Pasta Pack,J. Adeyemi,24,44.9,1077.6
+2025-04-26,Leeds,Home,Cushion,M. Osei,13,41.7,542.1
+2025-01-10,Leeds,Home,Toaster,A. Nkemelu,15,34.71,520.65
+2025-03-16,Birmingham,Home,Toaster,A. Nkemelu,12,48.23,578.76
+2025-05-23,Birmingham,Electronics,Phone Case,M. Osei,8,73.6,588.8
+2025-05-15,Bristol,Electronics,Bluetooth Speaker,R. Patel,7,76.13,532.91
+2025-05-22,Bristol,Clothing,T-Shirt,A. Nkemelu,22,79.44,1747.68
+2025-04-26,Bristol,Electronics,Phone Case,J. Adeyemi,16,16.6,265.6
+2025-05-22,Manchester,Home,Toaster,S. Okafor,25,17.53,438.25
+2025-03-05,London,Grocery,Olive Oil,J. Adeyemi,2,60.42,120.84
+2025-03-24,Birmingham,Clothing,Cap,S. Okafor,17,88.76,1508.92
+2025-03-26,Bristol,Clothing,T-Shirt,T. Whitfield,10,48.1,481.0
+2025-04-28,London,Clothing,Jacket,M. Osei,21,31.63,664.23
+2025-05-12,Manchester,Electronics,Bluetooth Speaker,A. Nkemelu,20,62.63,1252.6
+2025-02-27,Birmingham,Clothing,Hoodie,T. Whitfield,23,46.56,1070.88
+2025-02-04,Birmingham,Clothing,Cap,T. Whitfield,7,45.71,319.97
+2025-06-22,Birmingham,Electronics,Charger Cable,S. Okafor,1,68.38,68.38
+2025-05-07,Manchester,Home,Toaster,J. Adeyemi,14,7.02,98.28
+2025-02-05,London,Clothing,T-Shirt,J. Adeyemi,14,24.72,346.08
+2025-05-05,Manchester,Home,Desk Lamp,M. Osei,16,25.64,410.24
+2025-01-12,London,Clothing,Hoodie,T. Whitfield,25,46.71,1167.75
+2025-06-17,London,Electronics,Charger Cable,R. Patel,6,73.34,440.04
+2025-02-22,Bristol,Grocery,Snack Bar,L. Chen,4,42.23,168.92
+2025-04-24,Birmingham,Clothing,Jacket,T. Whitfield,9,43.82,394.38
+2025-04-17,London,Grocery,Olive Oil,L. Chen,9,7.77,69.93
+2025-03-03,Birmingham,Grocery,Tea Box,T. Whitfield,21,30.49,640.29
+2025-05-20,Leeds,Clothing,Cap,M. Osei,11,38.0,418.0
+2025-05-24,London,Clothing,Hoodie,L. Chen,4,27.73,110.92
+2025-02-14,Leeds,Electronics,Headphones,J. Adeyemi,8,56.13,449.04
+2025-03-05,Birmingham,Grocery,Tea Box,S. Okafor,15,11.58,173.7
+2025-03-05,London,Grocery,Coffee Beans,S. Okafor,23,21.91,503.93
+2025-05-10,Manchester,Home,Toaster,S. Okafor,17,42.55,723.35
+2025-03-04,Bristol,Grocery,Olive Oil,T. Whitfield,6,19.44,116.64
+2025-05-12,Manchester,Electronics,Phone Case,T. Whitfield,17,39.28,667.76
+2025-04-05,Birmingham,Clothing,Cap,M. Osei,3,80.07,240.21
+2025-06-28,Bristol,Grocery,Coffee Beans,M. Osei,8,82.97,663.76
+2025-05-25,Manchester,Home,Desk Lamp,J. Adeyemi,24,44.23,1061.52
+2025-06-13,Leeds,Clothing,T-Shirt,L. Chen,1,87.12,87.12
+2025-02-27,Birmingham,Clothing,T-Shirt,S. Okafor,7,58.97,412.79
+2025-06-24,Bristol,Home,Cushion,J. Adeyemi,6,89.38,536.28
+2025-04-16,London,Electronics,Smart Watch,T. Whitfield,9,50.53,454.77
+2025-05-09,Bristol,Home,Kettle,M. Osei,3,77.35,232.05
+2025-05-07,London,Home,Desk Lamp,M. Osei,11,78.91,868.01
+2025-02-16,London,Clothing,Cap,R. Patel,1,81.13,81.13
+2025-04-18,Bristol,Grocery,Coffee Beans,J. Adeyemi,16,55.71,891.36
+2025-05-11,London,Electronics,Headphones,R. Patel,2,45.09,90.18
+2025-06-04,Manchester,Grocery,Tea Box,S. Okafor,14,46.27,647.78
+2025-02-15,Manchester,Electronics,Charger Cable,J. Adeyemi,15,78.6,1179.0
+2025-03-01,Manchester,Electronics,Bluetooth Speaker,T. Whitfield,8,27.64,221.12
+2025-02-22,Manchester,Clothing,Jacket,M. Osei,21,69.86,1467.06
+2025-05-08,Leeds,Clothing,T-Shirt,L. Chen,19,19.17,364.23
+2025-03-10,Manchester,Electronics,Headphones,R. Patel,10,55.57,555.7
+2025-01-24,London,Electronics,Bluetooth Speaker,T. Whitfield,6,72.32,433.92
+2025-03-21,Bristol,Grocery,Snack Bar,A. Nkemelu,5,61.95,309.75
+2025-01-03,Bristol,Electronics,Smart Watch,T. Whitfield,16,75.78,1212.48
+2025-01-29,London,Home,Desk Lamp,J. Adeyemi,12,54.5,654.0
+2025-05-17,Leeds,Clothing,Cap,S. Okafor,6,76.44,458.64
+2025-01-26,Leeds,Electronics,Headphones,A. Nkemelu,6,42.5,255.0
+2025-06-19,Leeds,Electronics,Bluetooth Speaker,R. Patel,3,13.57,40.71
+2025-03-13,Leeds,Home,Photo Frame,R. Patel,21,80.19,1683.99
+2025-04-12,Birmingham,Clothing,Hoodie,J. Adeyemi,1,67.52,67.52
+2025-01-20,Manchester,Electronics,Charger Cable,L. Chen,23,55.46,1275.58
+2025-04-17,Bristol,Home,Photo Frame,L. Chen,13,25.73,334.49
+2025-06-02,London,Clothing,Hoodie,R. Patel,18,26.3,473.4
+2025-04-20,Bristol,Grocery,Tea Box,T. Whitfield,16,43.25,692.0
+2025-03-15,Bristol,Electronics,Headphones,L. Chen,5,80.0,400.0
+2025-04-28,Manchester,Clothing,Hoodie,A. Nkemelu,3,46.43,139.29
+2025-03-09,Leeds,Clothing,Jacket,T. Whitfield,24,89.6,2150.4
+2025-01-14,Birmingham,Grocery,Coffee Beans,A. Nkemelu,3,39.05,117.15
+2025-04-16,Bristol,Grocery,Coffee Beans,Unknown,5,49.08,245.4
+2025-04-17,Birmingham,Home,Toaster,S. Okafor,8,37.28,298.24
+2025-05-28,Manchester,Clothing,Jacket,S. Okafor,13,36.02,468.26
+2025-06-10,Leeds,Grocery,Coffee Beans,S. Okafor,21,62.05,1303.05
+2025-02-22,Bristol,Home,Photo Frame,S. Okafor,21,9.63,202.23
+2025-04-19,Leeds,Grocery,Coffee Beans,T. Whitfield,21,88.64,1861.44
+2025-01-03,Manchester,Clothing,Cap,A. Nkemelu,10,65.57,655.7
+2025-02-24,Leeds,Grocery,Olive Oil,A. Nkemelu,12,74.78,897.36
+2025-04-28,Birmingham,Home,Kettle,T. Whitfield,11,72.21,794.31
+2025-04-15,Leeds,Home,Photo Frame,T. Whitfield,23,46.71,1074.33
+2025-02-11,Birmingham,Clothing,Hoodie,T. Whitfield,9,64.64,581.76
+2025-05-02,Bristol,Grocery,Tea Box,M. Osei,17,16.87,286.79
+2025-03-12,London,Clothing,Socks Pack,J. Adeyemi,12,61.47,737.64
+2025-04-14,Birmingham,Grocery,Pasta Pack,J. Adeyemi,20,8.38,167.6
+2025-05-26,Manchester,Electronics,Smart Watch,J. Adeyemi,14,60.87,852.18
+2025-04-20,Birmingham,Electronics,Phone Case,T. Whitfield,19,58.33,1108.27
+2025-03-20,Leeds,Clothing,Socks Pack,S. Okafor,19,29.98,569.62
+2025-02-26,Bristol,Home,Photo Frame,S. Okafor,13,44.35,576.55
+2025-04-25,Birmingham,Clothing,Socks Pack,M. Osei,24,53.68,1288.32
+2025-04-09,Manchester,Home,Kettle,M. Osei,23,67.95,1562.85
+2025-05-19,Birmingham,Electronics,Phone Case,J. Adeyemi,25,60.86,1521.5
+2025-06-30,Birmingham,Electronics,Smart Watch,S. Okafor,22,13.79,303.38
+2025-06-27,Leeds,Electronics,Phone Case,A. Nkemelu,22,78.03,1716.66
+2025-01-19,London,Electronics,Headphones,S. Okafor,7,8.38,58.66
+2025-04-23,London,Home,Kettle,R. Patel,25,59.83,1495.75
+2025-03-13,Leeds,Clothing,T-Shirt,L. Chen,1,68.66,68.66
+2025-03-19,Birmingham,Electronics,Phone Case,M. Osei,3,31.37,94.11
+2025-06-20,London,Grocery,Snack Bar,T. Whitfield,18,18.42,331.56
+2025-02-12,Manchester,Home,Toaster,J. Adeyemi,14,11.65,163.1
+2025-01-02,Bristol,Home,Photo Frame,T. Whitfield,16,45.57,729.12
+2025-01-12,Birmingham,Electronics,Phone Case,S. Okafor,12,41.6,499.2
+2025-06-16,Manchester,Electronics,Charger Cable,T. Whitfield,10,66.7,667.0
+2025-06-15,Manchester,Home,Kettle,R. Patel,9,21.76,195.84
+2025-06-25,Bristol,Electronics,Charger Cable,M. Osei,12,6.54,78.48
+2025-02-05,Leeds,Clothing,Hoodie,J. Adeyemi,9,37.59,338.31
+2025-06-11,Bristol,Home,Toaster,S. Okafor,18,6.15,110.7
+2025-02-23,Bristol,Home,Photo Frame,J. Adeyemi,10,18.8,188.0
+2025-04-03,Leeds,Electronics,Smart Watch,R. Patel,22,43.23,951.06
+2025-04-19,Manchester,Grocery,Olive Oil,T. Whitfield,21,84.1,1766.1
+2025-05-31,Bristol,Clothing,T-Shirt,L. Chen,12,79.25,951.0
+2025-03-22,Birmingham,Clothing,Jacket,R. Patel,25,36.49,912.25
+2025-04-08,Birmingham,Home,Cushion,A. Nkemelu,25,70.95,1773.75
+2025-01-06,Bristol,Grocery,Coffee Beans,S. Okafor,20,22.11,442.2
+2025-01-22,Bristol,Home,Desk Lamp,M. Osei,6,63.24,379.44
+2025-05-26,Leeds,Clothing,Cap,T. Whitfield,6,69.82,418.92
+2025-04-29,London,Home,Desk Lamp,Unknown,24,38.56,925.44
+2025-04-05,Birmingham,Electronics,Charger Cable,M. Osei,10,72.71,727.1
+2025-02-11,Leeds,Electronics,Headphones,S. Okafor,1,32.08,32.08
+2025-03-21,Bristol,Grocery,Pasta Pack,T. Whitfield,7,11.45,80.15
+2025-04-13,London,Home,Cushion,J. Adeyemi,10,11.71,117.1
+2025-03-18,Leeds,Grocery,Olive Oil,L. Chen,8,26.03,208.24
+2025-04-06,Manchester,Clothing,T-Shirt,A. Nkemelu,1,33.47,33.47
+2025-06-27,Manchester,Grocery,Pasta Pack,M. Osei,5,53.85,269.25
+2025-02-09,Leeds,Clothing,Cap,T. Whitfield,9,40.31,362.79
+2025-05-12,Bristol,Electronics,Charger Cable,M. Osei,8,85.35,682.8
+2025-01-27,Bristol,Electronics,Phone Case,J. Adeyemi,25,18.62,465.5
+2025-06-30,London,Grocery,Tea Box,T. Whitfield,10,81.78,817.8
+2025-02-12,Birmingham,Grocery,Tea Box,M. Osei,25,67.03,1675.75
+2025-05-31,Bristol,Clothing,T-Shirt,A. Nkemelu,7,30.17,211.19
+2025-02-09,Manchester,Electronics,Headphones,S. Okafor,15,61.25,918.75
+2025-05-31,Manchester,Home,Photo Frame,M. Osei,2,75.66,151.32
+2025-06-30,London,Electronics,Bluetooth Speaker,A. Nkemelu,10,88.73,887.3
+2025-01-30,Leeds,Electronics,Smart Watch,L. Chen,14,9.6,134.4
+2025-01-04,Manchester,Home,Kettle,T. Whitfield,25,45.7,1142.5
+2025-03-01,Bristol,Clothing,Cap,M. Osei,25,62.16,1554.0
+2025-03-27,London,Home,Cushion,R. Patel,7,17.52,122.64
+2025-04-19,London,Clothing,Cap,S. Okafor,12,13.8,165.6
+2025-04-21,Manchester,Grocery,Tea Box,J. Adeyemi,4,33.13,132.52
+2025-03-09,Manchester,Home,Desk Lamp,M. Osei,9,68.49,616.41
+2025-06-30,Leeds,Home,Desk Lamp,S. Okafor,23,82.89,1906.47
+2025-03-09,London,Electronics,Smart Watch,L. Chen,12,66.92,803.04
+2025-01-18,Birmingham,Clothing,Cap,L. Chen,22,88.39,1944.58
+2025-03-20,Leeds,Clothing,Socks Pack,J. Adeyemi,5,12.41,62.05
+2025-02-12,Leeds,Electronics,Charger Cable,S. Okafor,22,66.15,1455.3
+2025-05-29,Bristol,Electronics,Phone Case,J. Adeyemi,2,54.65,109.3
+2025-02-04,Leeds,Clothing,Jacket,L. Chen,13,36.92,479.96
+2025-02-08,Manchester,Home,Cushion,L. Chen,19,80.88,1536.72
+2025-04-22,Birmingham,Electronics,Headphones,T. Whitfield,21,39.52,829.92
+2025-03-12,Birmingham,Grocery,Tea Box,J. Adeyemi,20,57.62,1152.4
+2025-03-10,Bristol,Clothing,Cap,A. Nkemelu,25,8.53,213.25
+2025-03-07,Leeds,Clothing,Socks Pack,A. Nkemelu,4,44.8,179.2
+2025-06-24,Leeds,Home,Toaster,A. Nkemelu,20,26.91,538.2
+2025-05-19,London,Electronics,Bluetooth Speaker,R. Patel,14,46.27,647.78
+2025-04-04,Leeds,Clothing,T-Shirt,L. Chen,2,53.46,106.92
+2025-04-24,Leeds,Home,Kettle,M. Osei,1,72.64,72.64
+2025-04-07,London,Grocery,Olive Oil,T. Whitfield,25,63.4,1585.0
+2025-01-01,Leeds,Home,Toaster,T. Whitfield,10,18.5,185.0
+2025-05-20,Leeds,Home,Photo Frame,M. Osei,9,73.79,664.11
+2025-03-01,Bristol,Home,Kettle,R. Patel,17,89.44,1520.48
+2025-06-13,Birmingham,Electronics,Charger Cable,A. Nkemelu,4,31.2,124.8
+2025-01-10,Bristol,Home,Cushion,T. Whitfield,23,23.89,549.47
+2025-06-23,London,Home,Photo Frame,J. Adeyemi,9,78.69,708.21
+2025-06-05,Birmingham,Grocery,Pasta Pack,L. Chen,22,23.15,509.3
+2025-01-27,Manchester,Clothing,Jacket,T. Whitfield,16,29.49,471.84
+2025-01-23,London,Home,Kettle,M. Osei,24,37.63,903.12
+2025-02-26,Manchester,Home,Photo Frame,S. Okafor,22,58.57,1288.54
+2025-06-24,Birmingham,Grocery,Tea Box,R. Patel,9,52.43,471.87
+2025-01-20,Manchester,Home,Photo Frame,A. Nkemelu,18,36.08,649.44
+2025-05-26,Bristol,Grocery,Snack Bar,J. Adeyemi,16,77.32,1237.12
+2025-05-18,Birmingham,Clothing,Hoodie,J. Adeyemi,20,67.97,1359.4
+2025-02-21,Manchester,Clothing,Cap,M. Osei,9,75.58,680.22
+2025-05-19,Bristol,Electronics,Phone Case,A. Nkemelu,20,16.13,322.6
+2025-04-17,Birmingham,Clothing,T-Shirt,S. Okafor,24,30.37,728.88
+2025-04-08,Leeds,Clothing,Hoodie,S. Okafor,2,29.44,58.88
+2025-05-01,Manchester,Clothing,Cap,L. Chen,15,70.39,1055.85
+2025-04-05,Manchester,Grocery,Pasta Pack,R. Patel,12,13.44,161.28
+2025-03-02,Birmingham,Clothing,Hoodie,T. Whitfield,3,74.83,224.49
+2025-04-02,Bristol,Clothing,Socks Pack,J. Adeyemi,22,38.63,849.86
+2025-01-05,Bristol,Home,Toaster,S. Okafor,14,5.12,71.68
+2025-06-30,Manchester,Electronics,Smart Watch,A. Nkemelu,12,86.64,1039.68
+2025-02-03,Bristol,Home,Desk Lamp,T. Whitfield,15,5.78,86.7
+2025-04-29,Birmingham,Grocery,Coffee Beans,R. Patel,2,85.42,170.84
+2025-03-27,Bristol,Grocery,Pasta Pack,S. Okafor,7,88.36,618.52
+2025-05-31,Manchester,Electronics,Charger Cable,A. Nkemelu,17,40.57,689.69
+2025-01-15,Bristol,Grocery,Snack Bar,T. Whitfield,5,66.3,331.5
+2025-06-19,Bristol,Clothing,Jacket,M. Osei,17,34.21,581.57
+2025-03-12,Bristol,Grocery,Coffee Beans,A. Nkemelu,23,57.95,1332.85
+2025-06-17,Manchester,Electronics,Charger Cable,A. Nkemelu,9,33.77,303.93
+2025-06-01,Birmingham,Clothing,Cap,J. Adeyemi,23,64.54,1484.42
+2025-05-18,Leeds,Home,Photo Frame,S. Okafor,3,38.55,115.65
+2025-01-16,Manchester,Clothing,T-Shirt,J. Adeyemi,8,81.26,650.08
+2025-06-25,Leeds,Clothing,Jacket,J. Adeyemi,23,10.08,231.84
+2025-01-10,Manchester,Grocery,Tea Box,J. Adeyemi,13,71.97,935.61
+2025-03-23,Leeds,Grocery,Pasta Pack,T. Whitfield,21,88.36,1855.56
+2025-06-20,Manchester,Electronics,Headphones,T. Whitfield,5,64.62,323.1
+2025-04-11,Bristol,Grocery,Tea Box,J. Adeyemi,12,5.31,63.72
+2025-01-09,Bristol,Home,Kettle,A. Nkemelu,15,19.68,295.2
+2025-03-18,Manchester,Grocery,Tea Box,T. Whitfield,22,17.13,376.86
+2025-02-14,Manchester,Grocery,Olive Oil,T. Whitfield,8,47.51,380.08
+2025-04-27,Leeds,Grocery,Coffee Beans,S. Okafor,14,31.55,441.7
+2025-06-15,London,Clothing,T-Shirt,J. Adeyemi,3,21.8,65.4
+2025-03-15,London,Grocery,Tea Box,J. Adeyemi,4,49.56,198.24
+2025-01-24,Leeds,Electronics,Phone Case,A. Nkemelu,5,52.28,261.4
+2025-05-28,Manchester,Grocery,Snack Bar,T. Whitfield,25,9.1,227.5
+2025-05-18,Birmingham,Electronics,Headphones,S. Okafor,6,54.34,326.04
+2025-04-01,Birmingham,Grocery,Pasta Pack,M. Osei,24,67.43,1618.32
+2025-04-10,Birmingham,Grocery,Tea Box,A. Nkemelu,15,83.15,1247.25
+2025-02-26,Birmingham,Electronics,Phone Case,R. Patel,18,29.53,531.54
+2025-02-14,Bristol,Home,Photo Frame,S. Okafor,5,20.89,104.45
+2025-04-08,Birmingham,Grocery,Snack Bar,L. Chen,21,87.8,1843.8
+2025-02-01,Manchester,Home,Toaster,A. Nkemelu,16,7.22,115.52
+2025-03-20,Manchester,Electronics,Bluetooth Speaker,M. Osei,3,12.27,36.81
+2025-04-24,Birmingham,Grocery,Coffee Beans,T. Whitfield,12,57.25,687.0
+2025-02-10,Leeds,Grocery,Snack Bar,R. Patel,23,87.33,2008.59
+2025-03-04,Birmingham,Home,Cushion,T. Whitfield,3,83.38,250.14
+2025-04-22,London,Home,Cushion,L. Chen,3,85.64,256.92
+2025-03-13,Bristol,Electronics,Bluetooth Speaker,A. Nkemelu,11,6.32,69.52
+2025-02-04,Bristol,Grocery,Snack Bar,R. Patel,4,33.1,132.4
+2025-01-16,Leeds,Electronics,Phone Case,T. Whitfield,3,47.88,143.64
+2025-02-28,Manchester,Electronics,Bluetooth Speaker,L. Chen,11,28.67,315.37
+2025-04-18,Manchester,Home,Cushion,M. Osei,24,31.57,757.68
+2025-01-25,Leeds,Electronics,Bluetooth Speaker,J. Adeyemi,1,10.23,10.23
+2025-06-06,Manchester,Electronics,Charger Cable,R. Patel,11,68.34,751.74
+2025-03-09,Manchester,Grocery,Olive Oil,T. Whitfield,14,52.67,737.38
+2025-04-07,London,Grocery,Olive Oil,L. Chen,19,39.06,742.14
+2025-05-02,London,Home,Photo Frame,T. Whitfield,9,70.18,631.62
+2025-06-23,Leeds,Clothing,Socks Pack,T. Whitfield,22,86.96,1913.12
+2025-03-31,Birmingham,Home,Cushion,T. Whitfield,23,12.67,291.41
+2025-05-10,Manchester,Home,Photo Frame,R. Patel,4,34.75,139.0
+2025-04-16,Manchester,Clothing,Hoodie,A. Nkemelu,23,14.18,326.14
+2025-01-08,Manchester,Home,Kettle,M. Osei,5,25.27,126.35
+2025-06-26,Manchester,Electronics,Phone Case,A. Nkemelu,22,56.02,1232.44
+2025-02-22,London,Clothing,Cap,S. Okafor,20,50.79,1015.8
+2025-05-26,Birmingham,Grocery,Coffee Beans,L. Chen,23,30.84,709.32
+2025-04-28,Bristol,Clothing,Cap,S. Okafor,22,70.61,1553.42
+2025-05-05,Bristol,Grocery,Pasta Pack,S. Okafor,7,69.16,484.12
+2025-02-19,Leeds,Grocery,Tea Box,M. Osei,19,30.57,580.83
+2025-06-16,Birmingham,Home,Toaster,J. Adeyemi,10,82.97,829.7
+2025-01-15,London,Home,Kettle,L. Chen,14,59.81,837.34
+2025-04-10,Bristol,Grocery,Olive Oil,J. Adeyemi,12,34.91,418.92
+2025-04-19,Birmingham,Electronics,Headphones,S. Okafor,25,16.11,402.75
+2025-05-03,Leeds,Grocery,Coffee Beans,L. Chen,23,82.31,1893.13
+2025-02-23,Leeds,Clothing,T-Shirt,A. Nkemelu,14,62.19,870.66
+2025-05-06,Manchester,Electronics,Bluetooth Speaker,A. Nkemelu,3,43.41,130.23
+2025-03-03,Bristol,Grocery,Tea Box,A. Nkemelu,25,39.91,997.75
+2025-05-03,Birmingham,Clothing,Socks Pack,J. Adeyemi,19,62.5,1187.5
+2025-06-25,Birmingham,Clothing,T-Shirt,L. Chen,9,21.12,190.08
+2025-02-26,Manchester,Home,Photo Frame,R. Patel,15,68.55,1028.25
+2025-01-27,Bristol,Electronics,Smart Watch,L. Chen,2,7.52,15.04
+2025-02-03,Birmingham,Home,Cushion,J. Adeyemi,1,17.55,17.55
+2025-04-05,Leeds,Grocery,Coffee Beans,T. Whitfield,1,25.55,25.55
+2025-06-16,London,Clothing,Jacket,T. Whitfield,8,9.91,79.28
+2025-02-14,London,Home,Photo Frame,Unknown,17,49.42,840.14
+2025-04-21,Leeds,Grocery,Coffee Beans,J. Adeyemi,3,35.07,105.21
+2025-04-07,Manchester,Home,Toaster,A. Nkemelu,23,70.53,1622.19
+2025-02-19,Birmingham,Clothing,T-Shirt,L. Chen,17,43.27,735.59
+2025-04-08,Manchester,Home,Kettle,M. Osei,23,14.33,329.59
+2025-04-16,Leeds,Electronics,Bluetooth Speaker,S. Okafor,21,11.29,237.09
+2025-06-13,Bristol,Grocery,Pasta Pack,J. Adeyemi,1,50.23,50.23
+2025-02-10,Birmingham,Clothing,Socks Pack,L. Chen,14,70.82,991.48
+2025-06-14,Leeds,Grocery,Tea Box,T. Whitfield,12,19.38,232.56
+2025-01-23,Leeds,Electronics,Bluetooth Speaker,R. Patel,24,54.96,1319.04
+2025-02-14,London,Electronics,Bluetooth Speaker,J. Adeyemi,12,72.14,865.68
+2025-06-22,Birmingham,Grocery,Snack Bar,J. Adeyemi,22,24.86,546.92
+2025-01-16,Leeds,Clothing,Cap,A. Nkemelu,14,40.99,573.86
+2025-02-10,Leeds,Clothing,T-Shirt,T. Whitfield,10,36.23,362.3
+2025-06-30,Manchester,Home,Cushion,A. Nkemelu,23,73.73,1695.79
+2025-03-24,Manchester,Electronics,Phone Case,Unknown,8,68.78,550.24
+2025-04-30,Bristol,Clothing,Hoodie,A. Nkemelu,25,51.85,1296.25
+2025-04-10,Birmingham,Clothing,T-Shirt,S. Okafor,3,34.3,102.9
+2025-04-08,Birmingham,Grocery,Olive Oil,J. Adeyemi,20,10.81,216.2
+2025-01-21,Birmingham,Grocery,Snack Bar,T. Whitfield,16,23.18,370.88
+2025-01-31,Leeds,Electronics,Smart Watch,M. Osei,20,11.04,220.8
+2025-03-28,Bristol,Clothing,Hoodie,R. Patel,20,48.27,965.4
+2025-06-13,London,Electronics,Phone Case,R. Patel,8,16.85,134.8
+2025-04-17,London,Electronics,Bluetooth Speaker,S. Okafor,10,34.15,341.5
+2025-06-24,Bristol,Grocery,Coffee Beans,A. Nkemelu,20,30.1,602.0
+2025-04-19,Bristol,Electronics,Charger Cable,L. Chen,20,89.66,1793.2
+2025-05-05,Bristol,Clothing,T-Shirt,R. Patel,13,88.67,1152.71
+2025-03-23,Manchester,Clothing,Socks Pack,L. Chen,2,52.8,105.6
+2025-03-14,Bristol,Home,Cushion,R. Patel,22,58.9,1295.8
+2025-05-30,London,Electronics,Smart Watch,A. Nkemelu,4,71.78,287.12
+2025-02-17,Birmingham,Electronics,Headphones,S. Okafor,19,56.23,1068.37
+2025-01-05,Birmingham,Home,Toaster,M. Osei,24,56.74,1361.76
+2025-02-15,Leeds,Electronics,Bluetooth Speaker,T. Whitfield,11,71.49,786.39
+2025-05-30,Manchester,Home,Photo Frame,T. Whitfield,9,44.05,396.45
+2025-01-24,Bristol,Grocery,Pasta Pack,M. Osei,18,86.1,1549.8
+2025-04-19,London,Clothing,Hoodie,S. Okafor,4,9.05,36.2
+2025-05-25,Bristol,Clothing,Socks Pack,R. Patel,22,65.87,1449.14
+2025-05-23,Manchester,Clothing,T-Shirt,L. Chen,5,67.97,339.85
+2025-06-04,Birmingham,Electronics,Headphones,J. Adeyemi,2,85.62,171.24
+2025-04-26,London,Electronics,Phone Case,A. Nkemelu,10,11.51,115.1
+2025-06-04,Manchester,Clothing,T-Shirt,M. Osei,22,17.01,374.22
+2025-06-15,Leeds,Home,Kettle,A. Nkemelu,11,15.4,169.4
+2025-04-23,Leeds,Clothing,Hoodie,A. Nkemelu,9,52.95,476.55
+2025-01-27,London,Clothing,Hoodie,L. Chen,6,67.21,403.26
+2025-06-09,Bristol,Clothing,Jacket,M. Osei,17,30.06,511.02
+2025-03-03,Bristol,Grocery,Olive Oil,S. Okafor,13,69.22,899.86
+2025-04-24,London,Clothing,Socks Pack,T. Whitfield,3,51.74,155.22
+2025-01-22,London,Home,Cushion,R. Patel,21,57.07,1198.47
+2025-04-03,London,Electronics,Charger Cable,A. Nkemelu,16,8.69,139.04
+2025-05-05,London,Home,Toaster,T. Whitfield,16,85.47,1367.52
+2025-04-15,London,Home,Kettle,L. Chen,4,60.05,240.2
+2025-04-04,Manchester,Electronics,Phone Case,S. Okafor,24,40.31,967.44
+2025-04-20,Birmingham,Electronics,Smart Watch,T. Whitfield,4,85.54,342.16
+2025-01-18,Birmingham,Clothing,T-Shirt,T. Whitfield,1,9.08,9.08
+2025-04-09,London,Clothing,Hoodie,J. Adeyemi,11,84.11,925.21
+2025-06-14,Birmingham,Grocery,Pasta Pack,A. Nkemelu,12,44.0,528.0
+2025-02-25,Leeds,Clothing,Cap,A. Nkemelu,20,38.75,775.0
+2025-03-15,Manchester,Clothing,Socks Pack,S. Okafor,18,11.84,213.12
+2025-05-01,Manchester,Grocery,Pasta Pack,M. Osei,1,81.99,81.99
+2025-06-27,Bristol,Clothing,Hoodie,T. Whitfield,19,74.22,1410.18
+2025-05-02,Birmingham,Clothing,T-Shirt,S. Okafor,10,31.42,314.2
+2025-02-01,Leeds,Home,Photo Frame,T. Whitfield,17,88.96,1512.32
+2025-01-26,Leeds,Clothing,Jacket,J. Adeyemi,22,70.51,1551.22
+2025-03-28,London,Electronics,Charger Cable,J. Adeyemi,12,77.03,924.36
+2025-02-21,Birmingham,Grocery,Snack Bar,L. Chen,17,43.37,737.29
+2025-04-23,Bristol,Home,Photo Frame,J. Adeyemi,24,75.55,1813.2
+2025-01-23,London,Clothing,Jacket,T. Whitfield,24,45.68,1096.32
+2025-01-15,Manchester,Grocery,Snack Bar,A. Nkemelu,6,19.96,119.76
+2025-01-19,Bristol,Electronics,Phone Case,S. Okafor,5,37.87,189.35
+2025-03-03,Manchester,Electronics,Smart Watch,R. Patel,21,24.78,520.38
+2025-06-20,Manchester,Home,Desk Lamp,A. Nkemelu,3,49.66,148.98
+2025-03-20,London,Home,Desk Lamp,R. Patel,14,46.81,655.34
+2025-03-19,Leeds,Electronics,Headphones,R. Patel,18,16.52,297.36
+2025-04-08,Bristol,Grocery,Tea Box,A. Nkemelu,7,73.1,511.7
+2025-04-27,London,Home,Cushion,A. Nkemelu,21,55.12,1157.52
+2025-05-21,London,Clothing,Cap,M. Osei,16,64.87,1037.92
+2025-05-16,Bristol,Home,Cushion,S. Okafor,24,86.44,2074.56
+2025-03-20,Leeds,Clothing,T-Shirt,J. Adeyemi,6,73.64,441.84
+2025-02-28,London,Grocery,Tea Box,M. Osei,21,66.29,1392.09
+2025-03-30,Manchester,Clothing,Hoodie,T. Whitfield,25,14.58,364.5
+2025-05-29,London,Electronics,Charger Cable,Unknown,23,10.41,239.43
+2025-04-13,Leeds,Grocery,Snack Bar,R. Patel,16,63.82,1021.12
+2025-01-10,Manchester,Clothing,Socks Pack,A. Nkemelu,25,9.05,226.25
+2025-03-12,Birmingham,Clothing,Hoodie,R. Patel,17,70.06,1191.02
+2025-03-08,Birmingham,Home,Kettle,T. Whitfield,4,44.55,178.2
+2025-06-26,Manchester,Home,Toaster,T. Whitfield,16,28.49,455.84
+2025-02-17,Birmingham,Grocery,Snack Bar,R. Patel,15,8.78,131.7
+2025-04-05,London,Home,Kettle,S. Okafor,13,62.25,809.25
+2025-05-08,Bristol,Clothing,Socks Pack,L. Chen,8,73.39,587.12
+2025-03-04,Leeds,Clothing,Socks Pack,A. Nkemelu,16,87.14,1394.24
+2025-03-26,Bristol,Electronics,Smart Watch,Unknown,8,22.96,183.68
+2025-04-05,Bristol,Clothing,T-Shirt,T. Whitfield,14,11.7,163.8
+2025-05-16,Bristol,Electronics,Smart Watch,T. Whitfield,6,42.4,254.4
+2025-01-09,Leeds,Electronics,Bluetooth Speaker,T. Whitfield,2,39.18,78.36
+2025-06-04,Birmingham,Electronics,Charger Cable,M. Osei,4,87.7,350.8
+2025-01-21,Bristol,Grocery,Olive Oil,T. Whitfield,8,47.29,378.32
+2025-03-27,Birmingham,Grocery,Olive Oil,M. Osei,16,80.58,1289.28
+2025-05-28,Bristol,Electronics,Phone Case,M. Osei,2,69.85,139.7
+2025-05-02,Leeds,Home,Kettle,J. Adeyemi,22,41.63,915.86
+2025-06-19,Manchester,Home,Cushion,S. Okafor,11,83.7,920.7
+2025-03-24,Birmingham,Home,Photo Frame,J. Adeyemi,16,42.58,681.28
+2025-05-18,Birmingham,Grocery,Snack Bar,L. Chen,21,46.26,971.46
+2025-04-23,Leeds,Grocery,Pasta Pack,R. Patel,11,56.56,622.16
+2025-04-26,Bristol,Home,Photo Frame,J. Adeyemi,8,74.41,595.28
+2025-05-12,Birmingham,Clothing,Jacket,L. Chen,11,54.46,599.06
+2025-06-21,Bristol,Home,Photo Frame,R. Patel,11,30.76,338.36
+2025-04-29,Manchester,Grocery,Tea Box,R. Patel,21,60.86,1278.06
+2025-02-13,Bristol,Home,Photo Frame,A. Nkemelu,25,71.27,1781.75
+2025-04-09,Bristol,Grocery,Pasta Pack,T. Whitfield,16,40.32,645.12
+2025-05-26,Birmingham,Home,Photo Frame,L. Chen,21,43.99,923.79
+2025-06-01,Birmingham,Grocery,Olive Oil,Unknown,16,74.33,1189.28
+2025-03-21,Birmingham,Electronics,Smart Watch,L. Chen,1,36.35,36.35
+2025-01-20,Birmingham,Grocery,Snack Bar,J. Adeyemi,21,28.22,592.62
+2025-05-10,Bristol,Grocery,Coffee Beans,A. Nkemelu,23,14.72,338.56
+2025-06-06,Birmingham,Home,Photo Frame,M. Osei,24,76.61,1838.64
+2025-05-26,Bristol,Home,Desk Lamp,R. Patel,16,51.07,817.12
+2025-01-20,Bristol,Clothing,T-Shirt,M. Osei,22,81.65,1796.3
+2025-05-16,Birmingham,Electronics,Smart Watch,J. Adeyemi,2,75.44,150.88
+2025-05-22,Birmingham,Home,Cushion,M. Osei,18,12.93,232.74
+2025-01-28,Manchester,Clothing,T-Shirt,L. Chen,11,76.53,841.83
+2025-02-05,Birmingham,Electronics,Charger Cable,A. Nkemelu,12,52.13,625.56
+2025-04-23,Leeds,Home,Photo Frame,L. Chen,13,34.84,452.92
+2025-03-07,Birmingham,Clothing,T-Shirt,J. Adeyemi,16,68.49,1095.84
+2025-03-09,Bristol,Grocery,Snack Bar,A. Nkemelu,2,12.84,25.68
+2025-06-02,Birmingham,Grocery,Olive Oil,A. Nkemelu,24,80.81,1939.44
+2025-01-17,Bristol,Electronics,Smart Watch,R. Patel,12,32.7,392.4
+2025-01-18,London,Clothing,T-Shirt,M. Osei,8,28.66,229.28
+2025-06-04,London,Electronics,Bluetooth Speaker,A. Nkemelu,25,54.93,1373.25
+2025-04-11,Bristol,Home,Toaster,A. Nkemelu,1,69.27,69.27
+2025-03-22,Leeds,Electronics,Charger Cable,M. Osei,7,26.64,186.48
+2025-02-07,Leeds,Home,Kettle,S. Okafor,12,81.4,976.8
+2025-02-08,Manchester,Grocery,Tea Box,T. Whitfield,7,10.45,73.15
+2025-02-12,Leeds,Clothing,Jacket,S. Okafor,16,71.52,1144.32
+2025-02-02,Manchester,Home,Toaster,T. Whitfield,11,75.41,829.51
+2025-01-23,Bristol,Home,Desk Lamp,T. Whitfield,24,77.27,1854.48
+2025-06-21,Birmingham,Electronics,Charger Cable,A. Nkemelu,24,8.59,206.16
+2025-04-03,Birmingham,Home,Photo Frame,M. Osei,20,21.61,432.2
+2025-04-24,Bristol,Clothing,Jacket,R. Patel,18,25.32,455.76
+2025-03-22,Leeds,Electronics,Smart Watch,S. Okafor,25,22.64,566.0
+2025-01-16,London,Grocery,Coffee Beans,S. Okafor,14,20.29,284.06
+2025-03-07,Birmingham,Home,Photo Frame,J. Adeyemi,3,75.69,227.07
+2025-01-30,London,Clothing,T-Shirt,T. Whitfield,6,84.03,504.18
+2025-05-13,Birmingham,Grocery,Pasta Pack,A. Nkemelu,2,22.29,44.58
+2025-05-24,Manchester,Clothing,T-Shirt,R. Patel,12,23.97,287.64
+2025-01-06,London,Grocery,Tea Box,T. Whitfield,6,56.09,336.54
+2025-02-06,Bristol,Grocery,Coffee Beans,R. Patel,24,58.81,1411.44
+2025-01-11,Birmingham,Home,Toaster,T. Whitfield,4,35.05,140.2
+2025-03-25,Manchester,Grocery,Snack Bar,S. Okafor,25,79.76,1994.0
+2025-01-07,Bristol,Clothing,Cap,R. Patel,21,10.36,217.56
+2025-02-05,Birmingham,Home,Cushion,T. Whitfield,5,65.79,328.95
+2025-01-12,Bristol,Clothing,Jacket,T. Whitfield,1,10.16,10.16
+2025-03-22,London,Electronics,Charger Cable,M. Osei,19,89.66,1703.54
+2025-01-27,London,Clothing,Cap,T. Whitfield,20,56.76,1135.2
+2025-03-31,Bristol,Grocery,Tea Box,M. Osei,5,71.7,358.5
+2025-02-03,Bristol,Grocery,Pasta Pack,L. Chen,14,87.04,1218.56
+2025-01-05,Leeds,Clothing,Jacket,R. Patel,14,63.68,891.52
+2025-02-10,Birmingham,Electronics,Smart Watch,T. Whitfield,24,14.79,354.96
+2025-05-25,Bristol,Grocery,Olive Oil,T. Whitfield,21,88.85,1865.85
+2025-01-24,Leeds,Clothing,T-Shirt,A. Nkemelu,18,38.8,698.4
+2025-01-06,London,Clothing,Hoodie,R. Patel,19,22.43,426.17
+2025-02-19,Bristol,Electronics,Charger Cable,M. Osei,10,40.1,401.0
+2025-04-10,Bristol,Electronics,Smart Watch,L. Chen,16,5.49,87.84
+2025-02-21,Birmingham,Clothing,Socks Pack,T. Whitfield,2,82.16,164.32
+2025-04-20,Bristol,Clothing,T-Shirt,L. Chen,22,13.1,288.2
+2025-06-20,Leeds,Clothing,Jacket,T. Whitfield,10,52.12,521.2
+2025-02-04,Birmingham,Electronics,Bluetooth Speaker,S. Okafor,4,20.55,82.2
+2025-01-02,Manchester,Grocery,Snack Bar,S. Okafor,5,23.29,116.45
+2025-05-16,London,Clothing,Jacket,J. Adeyemi,4,83.96,335.84
+2025-04-17,Leeds,Grocery,Coffee Beans,T. Whitfield,25,12.9,322.5
+2025-03-03,Manchester,Clothing,Socks Pack,S. Okafor,13,11.71,152.23
+2025-04-28,Bristol,Home,Cushion,M. Osei,19,12.19,231.61
+2025-01-19,Bristol,Home,Desk Lamp,S. Okafor,5,84.32,421.6
+2025-05-24,Leeds,Home,Toaster,A. Nkemelu,6,87.97,527.82
+2025-02-26,Manchester,Electronics,Phone Case,M. Osei,19,54.22,1030.18
+2025-02-13,Bristol,Grocery,Snack Bar,J. Adeyemi,14,76.77,1074.78
+2025-05-24,Birmingham,Grocery,Olive Oil,L. Chen,11,86.31,949.41
+2025-04-29,London,Grocery,Pasta Pack,M. Osei,17,16.39,278.63
+2025-06-21,Birmingham,Grocery,Coffee Beans,S. Okafor,7,26.2,183.4
+2025-04-27,Birmingham,Grocery,Olive Oil,T. Whitfield,24,18.12,434.88
+2025-01-18,Bristol,Clothing,T-Shirt,A. Nkemelu,14,74.89,1048.46
+2025-02-04,Birmingham,Electronics,Headphones,T. Whitfield,18,18.2,327.6
+2025-03-03,Leeds,Grocery,Coffee Beans,R. Patel,16,59.23,947.68
+2025-03-17,Birmingham,Grocery,Olive Oil,T. Whitfield,14,19.15,268.1
+2025-04-11,Bristol,Grocery,Tea Box,R. Patel,19,34.99,664.81
+2025-02-28,Leeds,Electronics,Headphones,J. Adeyemi,11,36.23,398.53
+2025-03-31,Birmingham,Grocery,Tea Box,M. Osei,23,84.72,1948.56
+2025-06-14,Manchester,Grocery,Pasta Pack,T. Whitfield,6,73.97,443.82
+2025-05-06,London,Home,Toaster,S. Okafor,24,42.65,1023.6
+2025-01-12,Manchester,Grocery,Olive Oil,A. Nkemelu,25,11.18,279.5
+2025-02-08,London,Electronics,Phone Case,A. Nkemelu,18,40.18,723.24
+2025-01-22,Leeds,Home,Photo Frame,R. Patel,2,27.1,54.2
+2025-04-23,London,Grocery,Coffee Beans,T. Whitfield,5,39.84,199.2
+2025-02-21,Manchester,Electronics,Bluetooth Speaker,J. Adeyemi,6,43.2,259.2
+2025-01-31,Manchester,Clothing,T-Shirt,T. Whitfield,18,85.81,1544.58
+2025-06-09,Bristol,Electronics,Charger Cable,M. Osei,19,61.34,1165.46
+2025-02-28,London,Clothing,Jacket,S. Okafor,3,22.92,68.76
+2025-02-25,Manchester,Electronics,Smart Watch,R. Patel,23,60.23,1385.29
+2025-02-05,Manchester,Electronics,Phone Case,A. Nkemelu,4,48.14,192.56
+2025-05-26,Manchester,Home,Desk Lamp,A. Nkemelu,21,81.24,1706.04
+2025-04-18,Manchester,Clothing,Hoodie,L. Chen,24,32.18,772.32
+2025-01-15,London,Home,Cushion,R. Patel,25,16.65,416.25
+2025-03-19,Bristol,Electronics,Bluetooth Speaker,A. Nkemelu,11,17.6,193.6
+2025-05-23,Leeds,Home,Toaster,S. Okafor,7,87.33,611.31
+2025-03-19,Manchester,Grocery,Pasta Pack,J. Adeyemi,8,37.41,299.28
+2025-02-10,Leeds,Grocery,Pasta Pack,S. Okafor,16,6.96,111.36
+2025-05-10,Leeds,Electronics,Phone Case,T. Whitfield,18,55.46,998.28
+2025-05-15,Birmingham,Grocery,Pasta Pack,R. Patel,10,36.99,369.9
+2025-01-08,London,Home,Photo Frame,L. Chen,15,33.97,509.55
+2025-04-07,Birmingham,Clothing,Hoodie,R. Patel,24,5.14,123.36
+2025-06-04,Manchester,Clothing,Socks Pack,J. Adeyemi,3,32.86,98.58
+2025-02-16,Birmingham,Clothing,Socks Pack,S. Okafor,1,20.41,20.41
+2025-05-24,Bristol,Electronics,Smart Watch,T. Whitfield,23,27.72,637.56
+2025-03-05,Birmingham,Grocery,Olive Oil,J. Adeyemi,22,30.39,668.58
+2025-06-02,Birmingham,Electronics,Smart Watch,R. Patel,3,25.51,76.53
+2025-04-03,Manchester,Clothing,T-Shirt,T. Whitfield,18,15.75,283.5
+2025-05-13,Manchester,Clothing,Hoodie,R. Patel,11,84.44,928.84
+2025-01-19,Bristol,Electronics,Bluetooth Speaker,R. Patel,19,85.67,1627.73
+2025-03-13,London,Grocery,Olive Oil,S. Okafor,25,54.63,1365.75
+2025-02-16,Leeds,Home,Cushion,A. Nkemelu,9,33.92,305.28
+2025-03-04,Bristol,Home,Desk Lamp,R. Patel,11,52.58,578.38
+2025-05-21,Manchester,Clothing,Jacket,T. Whitfield,16,15.31,244.96
+2025-04-05,Birmingham,Grocery,Coffee Beans,M. Osei,5,49.99,249.95
+2025-01-28,Leeds,Clothing,Jacket,T. Whitfield,5,42.01,210.05
+2025-04-12,London,Home,Photo Frame,M. Osei,14,38.04,532.56
+2025-05-21,Birmingham,Electronics,Bluetooth Speaker,J. Adeyemi,13,36.71,477.23
+2025-03-01,London,Grocery,Snack Bar,L. Chen,21,75.89,1593.69
+2025-01-30,Birmingham,Grocery,Coffee Beans,S. Okafor,22,62.66,1378.52
+2025-06-11,Birmingham,Home,Kettle,L. Chen,4,69.62,278.48
+2025-02-11,Leeds,Clothing,Cap,M. Osei,24,27.03,648.72
+2025-04-01,Manchester,Grocery,Tea Box,T. Whitfield,22,12.27,269.94
+2025-01-18,London,Grocery,Olive Oil,L. Chen,18,32.71,588.78
+2025-03-18,London,Grocery,Coffee Beans,S. Okafor,9,59.44,534.96
+2025-04-14,Leeds,Home,Toaster,S. Okafor,22,75.38,1658.36
+2025-06-23,Leeds,Grocery,Tea Box,M. Osei,21,27.83,584.43
+2025-06-28,Leeds,Clothing,T-Shirt,S. Okafor,2,73.86,147.72
+2025-01-04,Bristol,Clothing,Jacket,L. Chen,15,33.95,509.25
+2025-01-08,Leeds,Electronics,Bluetooth Speaker,A. Nkemelu,19,71.28,1354.32
+2025-06-14,Birmingham,Electronics,Phone Case,L. Chen,6,43.56,261.36
+2025-01-05,London,Clothing,Hoodie,L. Chen,23,25.67,590.41
+2025-02-24,Manchester,Home,Toaster,S. Okafor,21,39.8,835.8
+2025-01-18,Manchester,Clothing,Socks Pack,R. Patel,15,75.86,1137.9
+2025-02-18,Leeds,Clothing,Socks Pack,S. Okafor,8,13.14,105.12
+2025-06-18,London,Clothing,Hoodie,J. Adeyemi,12,51.4,616.8
+2025-02-08,London,Home,Desk Lamp,L. Chen,12,10.13,121.56
+2025-02-24,Leeds,Electronics,Bluetooth Speaker,L. Chen,1,88.74,88.74
+2025-03-14,Leeds,Grocery,Olive Oil,T. Whitfield,12,31.21,374.52
+2025-03-16,London,Home,Cushion,T. Whitfield,10,64.74,647.4
+2025-04-12,London,Clothing,Cap,J. Adeyemi,15,36.32,544.8
+2025-01-08,Leeds,Grocery,Tea Box,S. Okafor,7,82.2,575.4
+2025-06-13,Bristol,Home,Toaster,S. Okafor,25,18.72,468.0
+2025-01-05,Leeds,Electronics,Phone Case,M. Osei,14,53.73,752.22
+2025-02-14,Leeds,Grocery,Snack Bar,R. Patel,19,42.04,798.76
+2025-01-11,Leeds,Home,Cushion,M. Osei,16,47.61,761.76
+2025-06-23,Bristol,Electronics,Phone Case,J. Adeyemi,11,13.02,143.22
+2025-05-16,Birmingham,Electronics,Headphones,T. Whitfield,18,68.81,1238.58
+2025-02-15,Leeds,Clothing,Socks Pack,T. Whitfield,23,58.79,1352.17
+2025-06-23,Manchester,Electronics,Headphones,S. Okafor,15,7.83,117.45
+2025-01-19,London,Clothing,Cap,R. Patel,3,15.72,47.16
+2025-05-18,Leeds,Home,Toaster,S. Okafor,23,17.26,396.98
+2025-05-14,Leeds,Clothing,Jacket,T. Whitfield,3,54.36,163.08
+2025-04-27,Manchester,Grocery,Pasta Pack,M. Osei,2,52.49,104.98
+2025-04-13,Bristol,Electronics,Charger Cable,J. Adeyemi,11,26.44,290.84
+2025-04-28,Bristol,Grocery,Olive Oil,M. Osei,4,53.67,214.68
+2025-06-05,Birmingham,Grocery,Olive Oil,L. Chen,25,50.68,1267.0
+2025-06-29,Bristol,Grocery,Olive Oil,J. Adeyemi,6,56.19,337.14
+2025-04-06,Leeds,Electronics,Phone Case,S. Okafor,11,16.59,182.49
+2025-06-28,Birmingham,Electronics,Charger Cable,T. Whitfield,5,45.59,227.95
